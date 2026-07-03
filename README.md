@@ -2,7 +2,7 @@
 Caderno temático do Notebook LM com o tema de: estudos sobre ia e paralelo com ficção científica.
 Contexto e Objetivos: A abordagem é de dois eixos paralelos: de um lado, a evolução técnica dos sistemas conversacionais (de ELIZA aos modelos de linguagem atuais) e, do outro, a evolução das perguntas filosóficas levantadas pela ficção científica. Em vez de apenas comparar datas, o objetivo é de como obras de ficção anteciparam dilemas que hoje são debatidos na pesquisa em IA, como: empatia, identidade, consciência, alinhamento, confiança e direitos das máquinas. Cheguei nesse tema pois estou criando chatbots para o trabalho e me veio a curiosidade de saber quem criou o primeiro chatbot e com qual objetivo. O paralelo com ficcção cientifica veio por conta do meu filme favorito: Blade Runner
 
-Curadoria de Fontes: 
+Curadoria de algumas fontes: 
 https://phil415.pbworks.com/f/TuringComputing.pdf
 https://olhardigital.com.br/2024/03/06/pro/conheca-eliza-chatbot-criado-em-1960-e-saiba-o-que-mudou-desde-entao/
 https://idacooper.medium.com/i-asked-voight-kampff-test-questions-to-chatgpt-and-grok-91694dd31971
